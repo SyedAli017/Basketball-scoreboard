@@ -39,7 +39,7 @@ body {
 }
 
 #home-point-count,
-#guest-point-count {
+#away-point-count {
   width: 155px;
   height: 120px;
   font-family: "Cursed Timer ULiL", sans-serif;
@@ -57,12 +57,12 @@ body {
   margin: 21px auto auto 82px;
 }
 
-#guest-point-count {
+#away-point-count {
   margin: 21px 83px auto auto;
 }
 
 .home-buttons,
-.guest-buttons {
+.away-buttons {
   display: flex;
   gap: 10px;
 }
@@ -71,7 +71,7 @@ body {
   margin: 26px auto 69px 82px;
 }
 
-.guest-buttons {
+.away-buttons {
   margin: 26px 83px 63px auto;
 }
 
