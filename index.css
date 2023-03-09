@@ -17,7 +17,7 @@ body {
 }
 
 .title-home,
-.title-guest {
+.title-away {
   width: 149px;
   height: 36px;
   font-family: "Verdana", sans-serif;
@@ -34,7 +34,7 @@ body {
   margin-left: 85px;
 }
 
-.title-guest {
+.title-away {
   margin-right: 86px;
 }
 
